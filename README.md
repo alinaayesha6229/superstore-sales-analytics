@@ -93,7 +93,7 @@ Interactive filters allow analysis by **Year** and **Region**.
 
 ## Dashboard Preview
 
-Power BI dashboard screenshot will be added here.
+![Superstore Sales & Profitability Power BI Dashboard](Dashboard.png)
 
 ## Project Structure
 
